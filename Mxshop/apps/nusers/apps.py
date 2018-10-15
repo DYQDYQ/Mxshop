@@ -6,3 +6,4 @@ from django.apps import AppConfig
 
 class NusersConfig(AppConfig):
     name = 'nusers'
+    verbose_name='用户'
